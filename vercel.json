@@ -2,11 +2,6 @@
     "github": {
         "silent": true
     },
-    "pipeline": {
-        "generate": {
-          "outputs": ["dist/**"]
-        }
-    },
     "headers": [
         {
             "source": "/(.*)",
